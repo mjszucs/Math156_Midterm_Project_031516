@@ -60,9 +60,14 @@ CV.high <- sd(capital_revenue.high) / mean(capital_revenue.high); CV.high
 # HoHOHO! NoNoNo
 CV.low <- sd(capital_revenue.low) / mean(capital_revenue.low); CV.low
 
+<<<<<<< HEAD
 
 #Jon markdown
 #Matt ggplot
 #all enjoy weekend, bootstrap
 #need short script
 #hours per week by age, gender
+=======
+#THIS IS JUST A TEST FROM MATT SZUCS
+
+>>>>>>> a
