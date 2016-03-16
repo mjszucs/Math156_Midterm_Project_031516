@@ -57,5 +57,5 @@ capital_revenue.high <- capital_revenue[which(adult$income == " >50K" & capital_
 capital_revenue.low <- capital_revenue[which(adult$income == " <=50K" & capital_revenue != 0)]
 CV.high <- sd(capital_revenue.high) / mean(capital_revenue.high); CV.high
 
-# HoHOHO!
+# HoHOHO! NoNoNo
 CV.low <- sd(capital_revenue.low) / mean(capital_revenue.low); CV.low
