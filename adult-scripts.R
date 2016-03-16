@@ -60,8 +60,10 @@ CV.high <- sd(capital_revenue.high) / mean(capital_revenue.high); CV.high
 # HoHOHO! NoNoNo
 CV.low <- sd(capital_revenue.low) / mean(capital_revenue.low); CV.low
 
-<<<<<<< HEAD
+# ####<<<<<<< HEAD
 #THIS IS JUST A TEST FROM MATT SZUCS
+
+
 
 =======
 
