@@ -5,6 +5,8 @@
 library(ggplot2)
 setwd("~/GitHub/Math156_Midterm_Project")
 
++THIS IS JUST A TEST
++PLEASE DISREGARD THIS IS JUST A TEST
 
 d = read.csv(file = "adult.csv")
 colnames(d) = c("Age","Workclass","Fnlwgt","Education","Education-num","Marital-status",
